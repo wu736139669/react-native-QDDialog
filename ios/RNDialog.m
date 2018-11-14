@@ -11,8 +11,6 @@
 #import <React/RCTEventDispatcher.h>
 #import <React/RCTBridgeModule.h>
 #import <MBProgressHUD.h>
-#import "ScottAlertController.h"
-#import "UIViewController+QXXViewController.h"
 @interface RNDialog () <RCTBridgeModule>
 
 @end
