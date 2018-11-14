@@ -18,7 +18,7 @@
 @end
 @implementation RNDialog
 
-RCT_EXPORT_MODULE()
+RCT_EXPORT_MODULE(@"QXXDialogModule")
 
 - (dispatch_queue_t)methodQueue {
     return dispatch_get_main_queue();
